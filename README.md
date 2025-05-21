@@ -11,7 +11,7 @@
 - **Frontend:** React, HTML, CSS, JavaScript, Stimulus, Turbo, Hotwire
 - **Infrastructure:** GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
 - **Monitoring & Logging:** ElasticSearch, Kibana, Prometheus, Grafana
-- **Testing:** RSpec, Minitest, FactoryBot
+- **Testing:** RSpec, Minitest, FactoryBot, Testing (Go)
 
 ### 📌 Highlights:
 - Confident working with REST APIs and microservice architecture  
