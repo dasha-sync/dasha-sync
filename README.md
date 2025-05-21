@@ -7,7 +7,7 @@
 📚 English level — B1
 
 ### 🛠️ Tech Stack:
-- **Backend:** Ruby (Rails), Go, PostgreSQL
+- **Backend:** Ruby (Rails), Go, PostgreSQL, RebbitMQ, Redis, MongoDB, Sidekiq, Swagger
 - **Frontend:** React, HTML, CSS, JavaScript, Stimulus, Turbo, Hotwire
 - **Infrastructure:** GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
 - **Monitoring & Logging:** ElasticSearch, Kibana, Prometheus, Grafana
@@ -18,8 +18,7 @@
 - Experience with high-load systems and asynchronous processing (RabbitMQ)  
 - Passionate about writing clean, maintainable code
 
-📫 [Contact me](mailto:kapoor.darya@gmail.com) or find me on:  
-[LinkedIn](https://www.linkedin.com/in/daria-kapur) | [Telegram](https://t.me/dashasync)
+📫 [Contact me](mailto:kapoor.darya@gmail.com) or find me on: [LinkedIn](https://www.linkedin.com/in/daria-kapur) | [Telegram](https://t.me/dashasync)
 
 <!--
 **dasha-sync/dasha-sync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
