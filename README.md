@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-💻 Developer with experience in Ruby and Go, contributed to projects like Grateful and Treemetrics  
+💻 Developer with experience in Ruby and Go, contributed to projects like [Grateful](https://grateful.net/) and [Treemetrics](https://treemetrics.com/)  
 🎓 Part-time student at BSUIR majoring in Software Engineering  
 🌍 Based in Minsk, Belarus  
 📚 English level — B1
